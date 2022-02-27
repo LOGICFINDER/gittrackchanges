@@ -1,2 +1,2 @@
-Hello Git 
+Hello Github user
 Hello from Russia 
